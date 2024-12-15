@@ -1,0 +1,43 @@
+{
+    "editor.fontFamily": "Fira Code, 'Courier New', monospace",
+    "editor.fontWeight": "300",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 32,
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    "editor.wordBreak": "keepAll",
+    "editor.minimap.enabled": false,
+    "editor.lineNumbers": "relative",
+    "editor.indentSize": "tabSize",
+    "editor.tabSize": 4,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.indentation": true,
+    "editor.insertSpaces": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.stickyScroll.enabled": false,
+
+    "files.autoSave": "onFocusChange",
+
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.editor.showTabs": "single",
+    "workbench.editor.editorActionsLocation": "titleBar",
+    "workbench.colorCustomizations": {
+        "editor.background": "#000",
+        "terminal.background": "#000"
+    },
+
+    "prettier.tabWidth": 4,
+    "prettier.printWidth": 80,
+    "prettier.requireConfig": false,
+
+    "terminal.integrated.fontSize": 14,
+
+    "explorer.compactFolders": false,
+
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "window.customTitleBarVisibility": "windowed",
+    "terminal.integrated.fontFamily": "Fira Code",
+    "settingsSync.ignoredSettings": ["terminal.integrated.fontFamily"]
+}
